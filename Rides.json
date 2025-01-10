@@ -1,0 +1,64 @@
+[
+{
+  "name": "Skyward Spiral",
+  "description": "A thrilling ride that shoot you up into the sky at tremendous speeds and spins you around as you descend back to the ground.",
+  "area": "Heart Stoppers",
+  "status": "Operational",
+  "waitTime": "Approx 30 minutes"
+},
+
+{
+  "name": "Starlight Soar",
+  "description": "Our scariest ride yet, take a leap on our rollercoaster that only operates after dark.",
+  "area": "Heart Stoppers",
+  "status": "Closed: Opens at 8pm",
+  "waitTime": None
+},
+
+{
+  "name": "Eclipse Coaster",
+  "description": "A rollercoaster that takes you through our accurate planetarium for a fun but educational ride.",
+  "area": "Education Station",
+  "status": "Operational",
+  "waitTime": "Approx 5 minutes"
+},
+
+{
+  "name": "Sarcophagus Trap Adventure",
+  "description": "Travel back to Ancient Egypt in this amazing adventure to learn everything from how they lived to what happened after they died.",
+  "area": "Education Station",
+  "status": "Closed due to School Trip - reopens to the public at 3pm",
+  "waitTime": None
+},
+
+{
+  "name": "Inferno Rapids",
+  "description": "Get thrown around on a donut in a crazy torrent of water.",
+  "area": "Wet n Wild",
+  "status": "Operational",
+  "waitTime": "Approx 10 minutes"
+},
+
+{
+  "name": "Relaxing River",
+  "description": "Relax on a donut as you travel down a calm stream of water.",
+  "area": "Wet n Wild",
+  "status": "Operational",
+  "waitTime": "Approx 20 minutes"
+},
+
+{
+  "name": "Phantom Caverns",
+  "description": "Take a ride through haunted caverns, shoot the ghosts and get scared by real actors.",
+  "area": "Spooky Scary Skeletons",
+  "status": "Operational",
+  "waitTime": "Approx 2 minutes"
+},
+
+{
+  "name": "Clown House",
+  "description": "Walk through a twisted version of a fun house with real actors waiting around every corner to scare you.",
+  "area": "Spooky Scary Skeletons",
+  "status": "Operational",
+  "waitTime": "Approx 5 minutes"
+}]
