@@ -12,7 +12,7 @@
   "description": "Our scariest ride yet, take a leap on our rollercoaster that only operates after dark.",
   "area": "Heart Stoppers",
   "status": "Closed: Opens at 8pm",
-  "waitTime": None
+  "waitTime": null
 },
 
 {
@@ -28,7 +28,7 @@
   "description": "Travel back to Ancient Egypt in this amazing adventure to learn everything from how they lived to what happened after they died.",
   "area": "Education Station",
   "status": "Closed due to School Trip - reopens to the public at 3pm",
-  "waitTime": None
+  "waitTime": null
 },
 
 {
