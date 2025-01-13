@@ -1,0 +1,53 @@
+{
+  "name": "Bertie's Fried Chicked",
+  "description": "A fast food type diner for those wanting some of Bertie's delicious classic chicken.",
+  "area": "Heart Stoppers",
+  "status": "Open",
+  "openingTime": "11:00 - 15:00",
+  "avgPrice": "Avg £10 per head"
+},
+
+{
+  "name": "After Dark Diner",
+  "description": "Our only diner open until late so you can enjoy some filling food after a day full of fun.",
+  "area": "Heart Stoppers",
+  "status": "Closed",
+  "openingTime": "18:00 - 00:00",
+  "avgPrice": "Avg £10 per head"
+},
+
+{
+  "name": "Icecream Fusions",
+  "description": "The perfect stop off on a hot day or even a fun educational activity. Choose from our many flavours or sign up to our daily icecream making science class - Limited availability",
+  "area": "Education Station",
+  "status": "Open",
+  "openingTime": "09:00 - 12:00 (Closed for icecream class) 14:00 - 16:00",
+  "avgPrice": "Avg £5 per head (£8 for icecream making class)"
+},
+
+{
+  "name": "Pit Stop",
+  "description": "Get some icecold drinks, icecreams and more to help cool you down.",
+  "area": "Wet n Wild",
+  "status": "Open",
+  "openingTime": "12:00 - 18:00",
+  "avgPrice": "Avg £5 per head"
+},
+
+{
+  "name": "Hot Food Van",
+  "description": "Grab some quick hot food from our rotating hot food van, different van every week ranging from classic british foods to different fusions from around the world.",
+  "area": "Wet n Wild",
+  "status": "Open",
+  "openingTime": "10:00 - 15:00",
+  "avgPrice": "Avg £3 - £15 per head, varies due to rotations"
+},
+
+{
+  "name": "Night at the Opera",
+  "description": "Our world famous horror themed restaurant with similarly themed meals for the horror lover in you.",
+  "area": "Spooky Scary Skeletons",
+  "status": "Closed",
+  "openingTime": "16:00 - 20:00",
+  "avgPrice": "Avg £35 per head based on a three course meal for one adult"
+}
