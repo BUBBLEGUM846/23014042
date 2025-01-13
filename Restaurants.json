@@ -1,3 +1,4 @@
+[
 {
   "name": "Bertie's Fried Chicked",
   "description": "A fast food type diner for those wanting some of Bertie's delicious classic chicken.",
@@ -50,4 +51,4 @@
   "status": "Closed",
   "openingTime": "16:00 - 20:00",
   "avgPrice": "Avg £35 per head based on a three course meal for one adult"
-}
+}]
